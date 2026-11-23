@@ -1,1 +1,22 @@
+# Déclaration d'usage de l'Intelligence Artificielle (IA)
+
+**Étudiante :** Alaa Saad  
+**Code Apogée :** 22009565  
+**Module :** Machine Learning — Contrôle Continu (Partie B)  
+
+---
+
+## 1. Outil utilisé
+* **Modèle :** Gemini (Google)
+
+## 2. Périmètre d'utilisation
+L'assistant IA a été sollicité uniquement en tant qu'outil d'appui méthodologique et rédactionnel pour :
+* **Structuration et synthèse :** organisation du compte rendu (`rapport/rapport.pdf`) et de la présentation en 6 diapositives (`presentation/presentation.pdf`) conformément aux consignes du contrôle continu.
+* **Reformulation et clarté :** amélioration de la rédaction de l'analyse critique (interprétation de l'ACP, justification du choix de $K = 2$ pour le GMM et analyse des zones d'incertitude).
+* **Support oral :** rédaction d'un script concis pour la présentation orale.
+
+## 3. Engagements et vérification personnelle
+* **Exécution et résultats :** L'ensemble du code Python (prétraitement sans fuite de données, calcul de la matrice de corrélation, ACP, clustering GMM, calcul des scores de silhouette) a été exécuté et vérifié personnellement dans le notebook.
+* **Intégrité des données :** Tous les indicateurs chiffrés (variance expliquée de 36,2 % et 19,2 % soit 55,4 % cumulés, score de silhouette ACP de 0,559, modèle GMM retenu à $K = 2$ avec un score de silhouette de 0,270) proviennent directement des sorties authentiques du notebook et des graphiques générés.
+* **Responsabilité académique :** J'atteste avoir relu, compris et validé l'intégralité du contenu rendu et en assumer l'entière responsabilité.
 
